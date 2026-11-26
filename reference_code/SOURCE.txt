@@ -1,0 +1,1 @@
+These Function-node bodies are copied from the supplied flows.json export. The original project adapted them from its implementation guide. Use them as acknowledged reference code when rebuilding the nodes. They are not a record of newly written code or newly executed tests.
