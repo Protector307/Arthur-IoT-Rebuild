@@ -1,0 +1,1 @@
+Export the current rebuild tab as formatted JSON and save it here as project-flow.json. Replace that file after each completed stage so Git can record the differences. No rebuilt flow is supplied in this starter folder.

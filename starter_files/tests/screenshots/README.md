@@ -1,0 +1,1 @@
+Save new screenshots from the actual rebuild here. Suggested names: 01_v1_normal.png, 02_v1_altered.png, 03_v2_verified.png, 04_v2_mismatch.png, plus broker_settings.png and final_flow.png. Keep the earlier project screenshots in their original folder.
