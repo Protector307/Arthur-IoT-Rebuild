@@ -17,7 +17,8 @@ Broker: 127.0.0.1, port 1884. MQTT 3.1.1, TLS disabled, QoS 0 for publishers and
 
 ## Records
 
-- flows/project-flow.json: export the current rebuild tab here after each stage.
+- [flows/newflow.json](flows/newflow.json): final local rebuild using Mosquitto at 127.0.0.1:1884.
+- [flows/project-flow.json](flows/project-flow.json): earlier public-broker prototype, retained for reference.
 - tests/test-results.csv: enter actual observations and the operator after running each test.
 - tests/screenshots: save new screenshots with clear filenames.
 - notes/activity-log.md: record work and decisions as they happen.
