@@ -1,5 +1,0 @@
-﻿test_id,case,expected_output,actual_output,outcome,run_date_time_and_timezone,performed_by,screenshot,notes
-T1,v1 normal,V1 Display shows HKEX-001 and Waiver approved,,,,,,
-T2,v1 altered,V1 Display shows HKEX-001 and Waiver DENIED,,,,,,
-T3,v2 normal through Sign Data,V2 Verified shows VERIFIED with the approved record,,,,,,
-T4,v2 altered with signature 12345678,V2 Alert shows INTEGRITY ALERT: Tampering detected!,,,,,,
